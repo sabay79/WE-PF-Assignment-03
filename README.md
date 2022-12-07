@@ -6,10 +6,12 @@
 Questions
 1. Implement the linear search algorithm [solution is in teachers manual]. Please
 use OOP when implementing the solution.
+
 https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T1/Program.cs
 2. Please implement the iterative solution of the binary search algorithm. [solution
 is in teachers manual]. Please use OOP when implementing the solution.
 Hackerrank questions
+
 https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T2/Program.cs
 1. Simple Array Sum: https://www.hackerrank.com/challenges/simple-arraysum/problem?isFullScreen=true
 2. Compare the Triplets https://www.hackerrank.com/challenges/compare-thetriplets/problem?isFullScreen=true
