@@ -8,7 +8,7 @@
 1. Implement the linear search algorithm [solution is in teachers manual]. Please
 use OOP when implementing the solution.
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T1/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T1/Program.cs
 
 
 2. Please implement the iterative solution of the binary search algorithm. [solution
