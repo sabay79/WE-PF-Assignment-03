@@ -15,24 +15,24 @@ use OOP when implementing the solution.
 is in teachers manual]. Please use OOP when implementing the solution.
 
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T2/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T2/Program.cs
 
 
 #### Hackerrank questions
 
 1. Simple Array Sum: https://www.hackerrank.com/challenges/simple-arraysum/problem?isFullScreen=true
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T3/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T3/Program.cs
 
 
 2. Compare the Triplets https://www.hackerrank.com/challenges/compare-thetriplets/problem?isFullScreen=true
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T4/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T4/Program.cs
 
 
 3. A Very Big Sum https://www.hackerrank.com/challenges/a-very-bigsum/problem?isFullScreen=true
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T5/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T5/Program.cs
 
 
 #### Bonus Question
@@ -40,16 +40,16 @@ https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T5/Program.cs
 number. Can you think about how we can do it? If you would like to solve this
 question, you can find it here on InterviewBit
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T6/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T6/Program.cs
 
 
 2. Binary search is one of the hottest topics in interview questions. Here is one
 such question. [solution is in the discussion tab]
 Please use OOP when implementing the solution.
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T7/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2D2T7/Program.cs
 
 ### Assignment Q#2
 ### Create custom data structure which supports operations of both Stack and Queue
 
-https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2A3_QueueStack/Program.cs
+**Sol:** https://github.com/sabay79/WE-PF-Assignment-03/blob/master/W2A3_QueueStack/Program.cs
